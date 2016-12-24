@@ -1,5 +1,7 @@
 ##Read lab webpage: in progress##
 
-Resources
+http://read-lab-confederation.github.io/
+
+Resources:
 
 http://jmcglone.com/guides/github-pages/
