@@ -1,13 +1,12 @@
 ---
-title: Tim Read's lab website
+title: Tim Read CV
 ---
 
 # Timothy D. Read Ph.D
 
 ###Professor, Division of Infectious Diseases, Department of Medicine, Emory University
 
-![temporary image](/Users/timothyread/Pictures/tim_2013.JPG)
-
+![temporary image](/read-lab-confederation.github.io/images/IMG_2475.JPG)
 
 
 ## CV
@@ -19,14 +18,9 @@ title: Tim Read's lab website
 * Head of Genomics Department, US Naval Medical REsearch Center
 * Professor, Emory University
 
-<Linkedin?>
 
 
-## Lab members
 
-
-<Twitter>
-<Staphopia>
 
 
 
