@@ -1,6 +1,8 @@
 ---
 title: Timothy D. Read Ph.D
+layout: page
 ---
+
 
 * B.Sc Biological Sciences, University of London
 * Ph.D Genetics, University of Leicester

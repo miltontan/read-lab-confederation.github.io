@@ -32,6 +32,8 @@ plugins:
 
 #nav bar 
 pages_list:
-    About: '/readlab/'
-    Archive: '/archive/'
+    About: '/cv/'
+    Blog: '/blog/'
+    Stuff: '/stuff/'
+    People: '/people/'
 
