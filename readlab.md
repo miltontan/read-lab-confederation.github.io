@@ -1,15 +1,8 @@
 ---
-title: Tim Read CV
+title: CV
 ---
 
-# Timothy D. Read Ph.D
-
-###Professor, Division of Infectious Diseases, Department of Medicine, Emory University
-
-![temporary image](/read-lab-confederation.github.io/images/IMG_2475.JPG)
-
-
-## CV
+## Timothy D. Read Ph.D
 
 * B.Sc Biological Sciences, University of London
 * Ph.D Genetics, University of Leicester
@@ -19,6 +12,7 @@ title: Tim Read CV
 * Professor, Emory University
 
 
+![temporary image](/read-lab-confederation.github.io/images/IMG_2475.JPG)
 
 
 
