@@ -8,9 +8,7 @@ title: Tim Read's lab website
 
 ![temporary image](/Users/timothyread/Pictures/tim_2013.JPG)
 
-## Overview
 
-Population genomics of bacterial pathogens, focusing currently on *Staphylococcus aureus*, *Chlamydia trachomatis*. Roles of horizontal gene transfer and recombination in the evolution of virulence. Metagenomic analysis of clinical specimens. Functional genomic approaches to pathogen vaccine and diagnostic design. Development of bioinformatic tools and databases for rapid genome analysis.
 
 ## CV
 
@@ -26,13 +24,7 @@ Population genomics of bacterial pathogens, focusing currently on *Staphylococcu
 
 ## Lab members
 
-## Publications
 
-[NCBI Bibliography](http://www.ncbi.nlm.nih.gov/myncbi/browse/collection/43406898/?sort=date&direction=descending)
-
-[Google Scholar]()
-
-## Links
 <Twitter>
 <Staphopia>
 
