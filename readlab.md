@@ -6,9 +6,9 @@ title: CV
 
 * B.Sc Biological Sciences, University of London
 * Ph.D Genetics, University of Leicester
-* Postdoc, Microbial Pathogenesis, Emory Univerity
-* Assitant Investigator, The Institute for Genomic REsearch
-* Head of Genomics Department, US Naval Medical REsearch Center
+* Postdoc, Microbial Pathogenesis, Emory Univerity, Atlanta, Georgia
+* Assistant Investigator, The Institute for Genomic Research, Rockville, Maryland
+* Head of Genomics Department, US Naval Medical Research Center, Rockville, Maryland
 * Professor, Emory University
 
 
