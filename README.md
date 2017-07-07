@@ -1,9 +1,11 @@
-##Read lab webpage: in progress##
+## Read lab webpage: in progress
 
 http://read-lab-confederation.github.io/
 
-##Resources:
+### Resources:
 
+http://jmcglone.com/guides/github-pages/
+http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/
 http://jmcglone.com/guides/github-pages/
 
 Nice example:
