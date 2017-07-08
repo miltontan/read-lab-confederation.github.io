@@ -1,6 +1,6 @@
 ---
-title: Timothy D. Read Ph.D
-layout: page
+title: About
+layout: default
 ---
 
 
