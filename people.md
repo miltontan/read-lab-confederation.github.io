@@ -18,7 +18,7 @@ Ph.D student
 ### [Michelle Su BS]() 
 Ph.D Student
 
-### [Milton Tan Ph.D.]() 
+### [Milton Tan Ph.D.](https://twitter.com/mtanichthys) 
 Postdoctoral Fellow
 
 
